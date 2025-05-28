@@ -1,16 +1,16 @@
 <!-- _sidebar.md -->
 
-## &nbsp; ENGL 396
+## &nbsp; BobaFinder
 
 * [Home](README.md)
 
-* First Group
+* Getting Started
 
-  * [Doc One](docone.md)
-  * [Doc Two](doctwo.md)
-  * [Doc Three](docthree.md)
-  
-* Second Group 
+  * [Prerequisites for BobaFinder](docthree.md)
+  * [Getting Started with BobaFinder](docfour.md)
 
-  * [Doc Four](docfour.md)
-  * [Doc Five](docfive.md)
+* Usage
+
+  * [BobaFinder Overview](docfive.md)
+  * [Rate a Boba Tea Location](docone.md)
+  * [Search Nearby Locations](doctwo.md)

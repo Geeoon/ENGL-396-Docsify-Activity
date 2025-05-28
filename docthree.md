@@ -1,3 +1,3 @@
-# Doc Three
+# Prerequisites for BobaFinder
 
-> The third doc.
+> The desire to find and rate boba.

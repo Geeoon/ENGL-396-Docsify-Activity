@@ -1,3 +1,3 @@
-# Doc One
+# Rate a Boba Location
 
-> The first doc.
+> Rate and review any boba tea location that you have visited.

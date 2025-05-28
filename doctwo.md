@@ -1,3 +1,3 @@
-# Doc Two
+# Search Nearby Locations
 
-> The second doc.
+> Search for nearby boba tea locations.

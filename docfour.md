@@ -1,3 +1,3 @@
-# Doc Four
+# Getting Started with BobaFinder
 
-> The fourth doc.
+> Create an account with BobaFinder to get started.
